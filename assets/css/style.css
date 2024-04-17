@@ -1,0 +1,33 @@
+.bg{
+    background-color: #000000;
+}
+.carousel-img-size{
+    height: 100vh;
+}
+
+.custom-brand {
+    margin-left: 200px;
+}
+
+.custom-brand-left {
+    margin-right: 200px;
+}
+
+
+.normal-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+}
+
+
+.bold-text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
