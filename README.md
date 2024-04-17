@@ -30,5 +30,5 @@ Este proyecto se ha gestionado utilizando Git y GitHub:
 2. Se realizaron múltiples commits a medida que se desarrollaba el proyecto, con mensajes descriptivos para cada uno.
 3. Se creó un repositorio remoto en GitHub.
 4. Se asoció el repositorio local con el remoto utilizando `git remote add origin <URL_del_repositorio>`.
-5. Se subió el proyecto al repositorio remoto con `git push -u origin master`.
+5. Se subió el proyecto al repositorio remoto con `git push `.
 6. Se activó GitHub Pages en la configuración del repositorio para desplegar la página web del proyecto.
